@@ -45,7 +45,7 @@ This project implements Huffman encoding for lossless file compression and decom
 
 ## Acknowledgments
 
-Developed as part of the Dartmouth CS curriculum, Fall 2024.
+Developed as part of the Dartmouth CS curriculum, Winter 2024.
 
 ---
 
